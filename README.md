@@ -1,1 +1,1 @@
-"# GitHubBattle" 
+"Play my Github Battle Game" 
