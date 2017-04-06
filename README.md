@@ -1,2 +1,2 @@
 Github Battle
-https://eatfoodallday.github.io/Github-Battle/
+https://jordanyenucla.github.io/Github-Battle/
